@@ -10,8 +10,14 @@ will allow you to construct rotations of quaternion julia sets as rasters. Examp
 videos which were generated using this code:
 
 http://www.youtube.com/watch?v=zNiYZnd0rn4
+
+
 http://www.youtube.com/watch?v=au_hTYx_P4Y
+
+
 http://www.youtube.com/watch?v=zUWNVRidCyE
+
+
 http://www.youtube.com/watch?v=gCJKJrbcxFo
 
 Owen Maresh
